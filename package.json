@@ -1,7 +1,9 @@
 {
-  "name": "admin-template",
+  "title": "Bootstrap Template",
+  "name": "bs4-template",
   "version": "0.0.1",
-  "description": "Bootstrap 4 template.",
+  "description": "Bootstrap 4 template",
+  "license": "MIT",
   "author": "Pedro Martinez <pama205@gmail.com>",
   "repository": {
       "type": "git",
@@ -16,7 +18,11 @@
     "jquery.easing": "^1.4.1",
     "popper.js": "^1.14.5"
   },
+  "devDependencies": {
+      "browser-sync": "2.24.5",
+      "gulp": "3.9.1"
+  },
   "scripts": {
-    "start": "node app.js"
+    "start": "node timer.js"
   }
 }

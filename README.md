@@ -8,3 +8,4 @@ Contar con NPM y Gulp instalados
 Para realizar la instalacion de las dependencias 
 
 1- ejecute npm install
+2- ejecute gulp

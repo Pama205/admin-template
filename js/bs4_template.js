@@ -1,0 +1,1 @@
+/*Aca ira el JS global del template*/

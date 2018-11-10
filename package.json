@@ -6,8 +6,8 @@
   "license": "MIT",
   "author": "Pedro Martinez <pama205@gmail.com>",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/Pama205/admin-template.git"
+    "type": "git",
+    "url": "https://github.com/Pama205/admin-template.git"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.3.1",
@@ -19,8 +19,8 @@
     "popper.js": "^1.14.5"
   },
   "devDependencies": {
-      "browser-sync": "2.24.5",
-      "gulp": "3.9.1"
+    "browser-sync": "2.24.5",
+    "gulp": "3.9.1"
   },
   "scripts": {
     "start": "node timer.js"
